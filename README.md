@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bienreti
+- 👋 Hi, I’m @bienreti
 - 🌱 I’m currently learning operating systems
 
 <!---
